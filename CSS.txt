@@ -1,0 +1,35 @@
+/* CSS styles */
+* {
+font-family: sans-serif;
+text-align: center;
+background-color: beige;
+}
+
+h1 {
+  font-family: impact;
+  font-size: 100;
+}
+
+.petit-boutton {
+  border: 3px solid;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  background-color: #ADDFFF
+}
+
+.petit-boutton:hover {
+  background-color: red;
+}
+
+
+
+.boutton {
+  font-family: impact;
+  font-size: 50;
+  border: 3px solid;
+  padding: 20px;
+  margin: 30px 200px;
+  border-radius: 3%;
+}

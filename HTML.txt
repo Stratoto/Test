@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello world</title>
+</head>
+<body>
+<h1 id="welcome">CROSS RECORDS</h1>
+    <p class="petit-boutton">
+      Présentation
+    </p>
+    <p class="petit-boutton">
+      Photos
+    </p>
+    <p class="petit-boutton">
+      Matériel
+    </p>
+    <p class="petit-boutton">
+      Contacts
+    </p>
+<p class="boutton">Réservez une session !</p>
+<p class="boutton">Suivez nous sur INSTAGRAM</p>
+</body>
+</html>
